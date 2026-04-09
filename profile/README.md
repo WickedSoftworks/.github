@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/wickedsoftworks/.github/blob/d2fca18779acd1c9f16c33873a3da43e309c7efa/assets/WickedSoftworks-Main-TransBG.png" width="256px" height="256px" />
+  <img src="https://github.com/WickedSoftworks/.github/blob/a3cdcded1fa74a63c99c781f61fd8c51b931f791/assets/Wicked-Banner-TransBG.png" width="1024px" height="768px" />
 </div>
