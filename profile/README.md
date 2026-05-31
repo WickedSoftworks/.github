@@ -1,6 +1,6 @@
-![Our Team's Banner]("https://raw.githubusercontent.com/WickedSoftworks/.github/refs/heads/main/assets/Wicked%20Softworks%20-%20Banner%20-%20White%20-%20NoShadow.png)
+![Our Team's Banner]("https://raw.githubusercontent.com/WickedSoftworks/.github/refs/heads/main/assets/Wicked%20Softworks%20-%20Banner%20-%20White%20-%20NoShadow.png")
 
-We're a group of new developers focusing on providing useful and polished applications
+We're a group of new developers focusing on providing useful and polished applications.
 
 ## Projects:
 - [**Evermind**](https://github.com/WickedSoftworks/evermind): A student planner to help you keep track of your assignments and when they're due 
